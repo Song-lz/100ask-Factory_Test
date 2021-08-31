@@ -1,0 +1,3 @@
+---- g_ptDefaulFontOpr->SetFontSize Matches (2 in 2 files) ----
+SetFontSize in font_manager.c (U:\demo\Mass_production_tools_for_electronic_products\32_improve_touch\font) : 	return g_ptDefaulFontOpr->SetFontSize(iFontSize);
+FontOpr in font_manager.h (U:\demo\Mass_production_tools_for_electronic_products\32_improve_touch\include) : 	int (*SetFontSize)(int iFontSize);
